@@ -1,5 +1,9 @@
-package net.oschina.app;
+package net.oschina.app.ui;
 
+import net.oschina.app.R;
+import net.oschina.app.R.id;
+import net.oschina.app.R.layout;
+import net.oschina.app.R.menu;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;

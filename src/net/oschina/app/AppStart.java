@@ -2,7 +2,7 @@ package net.oschina.app;
 
 import java.io.File;
 
-//import net.oschina.app.ui.MainActivity;
+import net.oschina.app.ui.MainActivity;
 import net.oschina.app.util.TDevice;
 
 import org.kymjs.kjframe.http.KJAsyncTask;
