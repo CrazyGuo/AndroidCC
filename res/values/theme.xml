@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 日间模式 -->
+   <style parent="@style/Theme.AppCompat.Light" name="AppBaseTheme_Light">
+      <item name="lineColor">@color/day_line_color</item>
+      <item name="windows_bg">@color/day_windows_bg</item>
+   </style>
+</resources>
