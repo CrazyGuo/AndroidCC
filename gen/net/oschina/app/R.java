@@ -1733,20 +1733,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f060003;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f07004f;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f070050;
-        public static final int abc_color_highlight_material=0x7f070051;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f070054;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f070055;
+        public static final int abc_color_highlight_material=0x7f070056;
         public static final int abc_input_method_navigation_guard=0x7f070003;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f070052;
-        public static final int abc_primary_text_disable_only_material_light=0x7f070053;
-        public static final int abc_primary_text_material_dark=0x7f070054;
-        public static final int abc_primary_text_material_light=0x7f070055;
-        public static final int abc_search_url_text=0x7f070056;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f070057;
+        public static final int abc_primary_text_disable_only_material_light=0x7f070058;
+        public static final int abc_primary_text_material_dark=0x7f070059;
+        public static final int abc_primary_text_material_light=0x7f07005a;
+        public static final int abc_search_url_text=0x7f07005b;
         public static final int abc_search_url_text_normal=0x7f070000;
         public static final int abc_search_url_text_pressed=0x7f070002;
         public static final int abc_search_url_text_selected=0x7f070001;
-        public static final int abc_secondary_text_material_dark=0x7f070057;
-        public static final int abc_secondary_text_material_light=0x7f070058;
+        public static final int abc_secondary_text_material_dark=0x7f07005c;
+        public static final int abc_secondary_text_material_light=0x7f07005d;
         public static final int accent_material_dark=0x7f070011;
         public static final int accent_material_light=0x7f070010;
         public static final int background_floating_material_dark=0x7f070008;
@@ -1767,16 +1767,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int button_material_light=0x7f070013;
         /**  day 
          */
-        public static final int day_colorPrimary=0x7f07003b;
-        public static final int day_colorPrimaryDark=0x7f07003c;
-        public static final int day_edit_color=0x7f070043;
-        public static final int day_edit_hit_color=0x7f070044;
-        public static final int day_infoTextColor=0x7f07003e;
-        public static final int day_layout_bg_normal=0x7f07003f;
-        public static final int day_layout_bg_pressed=0x7f070040;
-        public static final int day_line_color=0x7f070041;
-        public static final int day_textColor=0x7f07003d;
-        public static final int day_windows_bg=0x7f070042;
+        public static final int day_colorPrimary=0x7f070040;
+        public static final int day_colorPrimaryDark=0x7f070041;
+        public static final int day_edit_color=0x7f070048;
+        public static final int day_edit_hit_color=0x7f070049;
+        public static final int day_infoTextColor=0x7f070043;
+        public static final int day_layout_bg_normal=0x7f070044;
+        public static final int day_layout_bg_pressed=0x7f070045;
+        public static final int day_line_color=0x7f070046;
+        public static final int day_textColor=0x7f070042;
+        public static final int day_windows_bg=0x7f070047;
         public static final int dim_foreground_disabled_material_dark=0x7f070020;
         public static final int dim_foreground_disabled_material_light=0x7f070021;
         public static final int dim_foreground_material_dark=0x7f07001e;
@@ -1805,16 +1805,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int material_grey_900=0x7f07002e;
         /**  night 
          */
-        public static final int night_colorPrimary=0x7f070045;
-        public static final int night_colorPrimaryDark=0x7f070046;
-        public static final int night_edit_color=0x7f07004d;
-        public static final int night_edit_hit_color=0x7f07004e;
-        public static final int night_infoTextColor=0x7f070048;
-        public static final int night_layout_bg_normal=0x7f070049;
-        public static final int night_layout_bg_pressed=0x7f07004a;
-        public static final int night_line_color=0x7f07004b;
-        public static final int night_textColor=0x7f070047;
-        public static final int night_windows_bg=0x7f07004c;
+        public static final int night_colorPrimary=0x7f07004a;
+        public static final int night_colorPrimaryDark=0x7f07004b;
+        public static final int night_edit_color=0x7f070052;
+        public static final int night_edit_hit_color=0x7f070053;
+        public static final int night_infoTextColor=0x7f07004d;
+        public static final int night_layout_bg_normal=0x7f07004e;
+        public static final int night_layout_bg_pressed=0x7f07004f;
+        public static final int night_line_color=0x7f070050;
+        public static final int night_textColor=0x7f07004c;
+        public static final int night_windows_bg=0x7f070051;
         public static final int primary_dark_material_dark=0x7f07000c;
         public static final int primary_dark_material_light=0x7f07000d;
         public static final int primary_material_dark=0x7f07000a;
@@ -1831,7 +1831,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  26% of default values 
          */
         public static final int primary_text_disabled_material_light=0x7f07002a;
-        public static final int primarybar_txt=0x7f070059;
+        public static final int primarybar_txt=0x7f07005e;
         /**  26% white (foreground) 
          */
         public static final int ripple_material_dark=0x7f07000e;
@@ -1846,13 +1846,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int secondary_text_default_material_light=0x7f070027;
         public static final int secondary_text_disabled_material_dark=0x7f07002d;
         public static final int secondary_text_disabled_material_light=0x7f07002b;
+        /**  下拉刷新时，颜色值 
+         */
+        public static final int swiperefresh_color1=0x7f07003c;
+        public static final int swiperefresh_color2=0x7f07003d;
+        public static final int swiperefresh_color3=0x7f07003e;
+        public static final int swiperefresh_color4=0x7f07003f;
         public static final int switch_thumb_disabled_material_dark=0x7f070016;
         public static final int switch_thumb_disabled_material_light=0x7f070017;
-        public static final int switch_thumb_material_dark=0x7f07005a;
-        public static final int switch_thumb_material_light=0x7f07005b;
+        public static final int switch_thumb_material_dark=0x7f07005f;
+        public static final int switch_thumb_material_light=0x7f070060;
         public static final int switch_thumb_normal_material_dark=0x7f070014;
         public static final int switch_thumb_normal_material_light=0x7f070015;
-        public static final int viewpage_selector_slide_title=0x7f07005c;
+        public static final int transparent=0x7f07003b;
+        public static final int viewpage_selector_slide_title=0x7f070061;
         public static final int white=0x7f07003a;
     }
     public static final class dimen {
@@ -2149,7 +2156,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int widget_bar_tweet_over=0x7f020054;
     }
     public static final class id {
-        public static final int action0=0x7f050057;
+        public static final int action0=0x7f05005b;
         public static final int action_bar=0x7f05003e;
         public static final int action_bar_activity_content=0x7f05001b;
         public static final int action_bar_container=0x7f05003d;
@@ -2158,23 +2165,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int action_bar_subtitle=0x7f050022;
         public static final int action_bar_title=0x7f050021;
         public static final int action_context_bar=0x7f05003f;
-        public static final int action_divider=0x7f05005b;
+        public static final int action_divider=0x7f05005f;
         public static final int action_menu_divider=0x7f05001d;
         public static final int action_menu_presenter=0x7f05001e;
         public static final int action_mode_bar=0x7f05003b;
         public static final int action_mode_bar_stub=0x7f05003a;
         public static final int action_mode_close_button=0x7f050023;
-        public static final int action_settings=0x7f05006a;
+        public static final int action_settings=0x7f05006d;
         public static final int activity_chooser_view_content=0x7f050024;
         public static final int alertTitle=0x7f05002e;
         public static final int always=0x7f050012;
-        public static final int animProgress=0x7f050066;
+        public static final int animProgress=0x7f050069;
         public static final int app_start_view=0x7f050050;
         public static final int beginning=0x7f050015;
         public static final int buttonPanel=0x7f050034;
-        public static final int cancel_action=0x7f050058;
+        public static final int cancel_action=0x7f05005c;
         public static final int checkbox=0x7f050036;
-        public static final int chronometer=0x7f05005e;
+        public static final int chronometer=0x7f050062;
         public static final int collapseActionView=0x7f050014;
         public static final int contentPanel=0x7f05002f;
         public static final int custom=0x7f050033;
@@ -2185,34 +2192,36 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int drawer_layout=0x7f05004d;
         public static final int edit_query=0x7f050040;
         public static final int end=0x7f050017;
-        public static final int end_padder=0x7f050063;
+        public static final int end_padder=0x7f050066;
         public static final int error_layout=0x7f050054;
         public static final int expand_activities_button=0x7f050025;
         public static final int expanded_menu=0x7f050035;
         public static final int home=0x7f050018;
         public static final int homeAsUp=0x7f050007;
         public static final int icon=0x7f050029;
-        public static final int icon_iv=0x7f050068;
+        public static final int icon_iv=0x7f05006b;
         public static final int ifRoom=0x7f050011;
         public static final int image=0x7f050026;
-        public static final int img_error_layout=0x7f050065;
-        public static final int info=0x7f050062;
-        public static final int line1=0x7f05005c;
-        public static final int line3=0x7f050060;
+        public static final int img_error_layout=0x7f050068;
+        public static final int info=0x7f050065;
+        public static final int line1=0x7f050060;
+        public static final int line3=0x7f050064;
         public static final int listMode=0x7f050002;
         public static final int list_item=0x7f050028;
-        public static final int media_actions=0x7f05005a;
+        public static final int listview=0x7f050058;
+        public static final int media_actions=0x7f05005e;
         public static final int middle=0x7f050016;
         public static final int multiply=0x7f05000e;
         public static final int never=0x7f050010;
         public static final int none=0x7f050004;
         public static final int normal=0x7f050001;
-        public static final int pageerrLayout=0x7f050064;
+        public static final int pageerrLayout=0x7f050067;
         public static final int pager=0x7f050053;
         public static final int pager_tabstrip=0x7f050051;
         public static final int parentPanel=0x7f05002b;
         public static final int progress_circular=0x7f05001f;
         public static final int progress_horizontal=0x7f050020;
+        public static final int progressbar=0x7f050059;
         public static final int quick_option_iv=0x7f05004f;
         public static final int radio=0x7f050038;
         public static final int realtabcontent=0x7f05004e;
@@ -2237,20 +2246,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int src_atop=0x7f05000d;
         public static final int src_in=0x7f05000c;
         public static final int src_over=0x7f05000b;
-        public static final int status_bar_latest_event_content=0x7f050059;
+        public static final int status_bar_latest_event_content=0x7f05005d;
         public static final int submit_area=0x7f050049;
+        public static final int swiperefreshlayout=0x7f050057;
         public static final int tabMode=0x7f050003;
         public static final int tab_mes=0x7f050056;
         public static final int tab_title=0x7f050055;
-        public static final int text=0x7f050061;
-        public static final int text2=0x7f05005f;
+        public static final int text=0x7f05005a;
+        public static final int text2=0x7f050063;
         public static final int textSpacerNoButtons=0x7f050031;
-        public static final int time=0x7f05005d;
+        public static final int time=0x7f050061;
         public static final int title=0x7f05002a;
         public static final int title_template=0x7f05002d;
-        public static final int title_tv=0x7f050069;
+        public static final int title_tv=0x7f05006c;
         public static final int topPanel=0x7f05002c;
-        public static final int tv_error_layout=0x7f050067;
+        public static final int tv_error_layout=0x7f05006a;
         public static final int up=0x7f050019;
         public static final int useLogo=0x7f050005;
         public static final int view_pager_line=0x7f050052;
@@ -2322,22 +2332,24 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int app_start=0x7f030019;
         public static final int base_viewpage_fragment=0x7f03001a;
         public static final int base_viewpage_fragment_tab_item=0x7f03001b;
-        public static final int fragmenttest=0x7f03001c;
-        public static final int notification_media_action=0x7f03001d;
-        public static final int notification_media_cancel_action=0x7f03001e;
-        public static final int notification_template_big_media=0x7f03001f;
-        public static final int notification_template_big_media_narrow=0x7f030020;
-        public static final int notification_template_lines=0x7f030021;
-        public static final int notification_template_media=0x7f030022;
-        public static final int notification_template_part_chronometer=0x7f030023;
-        public static final int notification_template_part_time=0x7f030024;
-        public static final int select_dialog_item_material=0x7f030025;
-        public static final int select_dialog_multichoice_material=0x7f030026;
-        public static final int select_dialog_singlechoice_material=0x7f030027;
-        public static final int support_simple_spinner_dropdown_item=0x7f030028;
-        public static final int tab_indicator=0x7f030029;
-        public static final int view_error_layout=0x7f03002a;
-        public static final int view_toast=0x7f03002b;
+        public static final int fragment_pull_refresh_listview=0x7f03001c;
+        public static final int fragmenttest=0x7f03001d;
+        public static final int list_cell_footer=0x7f03001e;
+        public static final int notification_media_action=0x7f03001f;
+        public static final int notification_media_cancel_action=0x7f030020;
+        public static final int notification_template_big_media=0x7f030021;
+        public static final int notification_template_big_media_narrow=0x7f030022;
+        public static final int notification_template_lines=0x7f030023;
+        public static final int notification_template_media=0x7f030024;
+        public static final int notification_template_part_chronometer=0x7f030025;
+        public static final int notification_template_part_time=0x7f030026;
+        public static final int select_dialog_item_material=0x7f030027;
+        public static final int select_dialog_multichoice_material=0x7f030028;
+        public static final int select_dialog_singlechoice_material=0x7f030029;
+        public static final int support_simple_spinner_dropdown_item=0x7f03002a;
+        public static final int tab_indicator=0x7f03002b;
+        public static final int view_error_layout=0x7f03002c;
+        public static final int view_toast=0x7f03002d;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
@@ -2411,6 +2423,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int error_view_no_data=0x7f0a0021;
         public static final int hello_world=0x7f0a0013;
         public static final int loading=0x7f0a001d;
+        public static final int loading_no_more=0x7f0a0022;
         public static final int main_tab_name_explore=0x7f0a001c;
         public static final int main_tab_name_my=0x7f0a001b;
         public static final int main_tab_name_news=0x7f0a0017;
